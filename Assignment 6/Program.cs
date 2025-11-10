@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("Starting Question 1");
-        Question1("Your Name Here");
+        Question1("Alex");
 
         Console.WriteLine("Starting Question 2");
         int returnNumber = Question2(3, 5);
@@ -20,12 +20,13 @@ class Program
         Console.WriteLine($"Score: 63.7 Passed? {passed}");
 
         Console.WriteLine("Starting Question 5");
-        decimal avg = Question5($"Values: 3, 6, 9 Average: {avg}");
+        decimal avg = Question5(3, 6, 9);
+        Console.WriteLine($"Values: 3, 6, 9 Average: {avg}");
     }
 
-    static void Question1(string yourName)
+    static void Question1(string Name)
     {
-        Console.WriteLine($"Hello, {yourName}!");
+        Console.WriteLine($"Hello {Name}, Let’s make some functions!");
     }
     static int Question2(int a, int b)
     {

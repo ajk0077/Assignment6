@@ -1,0 +1,15 @@
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.AssemblyInfoInputs.cache
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.AssemblyInfo.cs
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.csproj.CoreCompileInputs.cache
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.sourcelink.json
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\bin\Debug\net9.0\Assignment 6.exe
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\bin\Debug\net9.0\Assignment 6.deps.json
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\bin\Debug\net9.0\Assignment 6.runtimeconfig.json
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\bin\Debug\net9.0\Assignment 6.dll
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\bin\Debug\net9.0\Assignment 6.pdb
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.dll
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\refint\Assignment 6.dll
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.pdb
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\Assignment 6.genruntimeconfig.cache
+H:\Github\ismn3080-ajk0077\Assignment6\Assignment 6\obj\Debug\net9.0\ref\Assignment 6.dll

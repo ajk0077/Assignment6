@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("Starting Question 1");
-        Question1("your Name Here");
+        Question1("Your Name Here");
 
         Console.WriteLine("Starting Question 2");
         int returnNumber = Question2(3, 5);
@@ -50,3 +50,4 @@ class Program
         decimal sum = x + y + z;
         return sum / 3;
     }
+}
